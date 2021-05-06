@@ -7,7 +7,7 @@ from functools import reduce
 import scipy
 '''
 This is a scientific calculator built using python -n-built libraries- Tkinter, math and statistics- and external libraries
-viz: numpy and sympy. The various buttons are the functionalities of the calculator. 
+viz: numpy and sympy. The various buttons are the functionalities of the calculator. The major aim of this project is to turn this calculator into a mathematical software that can be used freely by research scientists, engineers and mathematicians in Africa.
 
 
 
